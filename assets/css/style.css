@@ -1,11 +1,23 @@
+/*Asterisk to overide default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
 header {
+
     background-color: aqua;
 }
 
+/* Main content */
 main {
     background-color: whitesmoke;
 }
 
+/*footer*/
 footer {
     background-color: aqua;
+
 }
