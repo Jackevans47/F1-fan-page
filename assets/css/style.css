@@ -15,6 +15,21 @@ header {
 
 }
 
+h1 {
+
+    letter-spacing: 1px;
+    color: #3a3a3a;
+
+}
+
+.menu {
+    font-size: 110%;
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+
+
+
 /* body */
 body {
     background-color: whitesmoke;
