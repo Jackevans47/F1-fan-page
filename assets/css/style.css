@@ -12,7 +12,14 @@ header {
     padding: 0;
     width: 100%;
     box-shadow: 0 1px 1px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 
+}
+
+header a {
+    color: inherit;
 }
 
 h1 {
@@ -28,6 +35,28 @@ h1 {
     list-style-type: none;
 }
 
+nav {
+    position: absolute;
+    background-color: aqua;
+    width: 100%;
+    left: 0;
+    padding: 0 10px;
+    box-shadow: 0 1px 1px #3a3a3a;
+    display: none;
+    top: 5%;
+}
+
+#drop-menu:checked~nav {
+    display: block;
+}
+
+#drop-menu {
+    display: none;
+}
+
+.drop-menu-icon {
+    font-size: 20px;
+}
 
 
 /* body */
