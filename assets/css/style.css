@@ -85,7 +85,9 @@ footer {
 }
 
 /* Media Query for tablets*/
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 768px)
+/*Header*/
+    {
     nav {
         display: block;
         position: relative;
@@ -103,5 +105,17 @@ footer {
 
     .drop-menu-icon {
         display: none;
+    }
+
+    #logo {
+        font-size: 250%;
+        line-height: 65px;
+        margin-left: 6px;
+        margin-right: 6px;
+    }
+
+    /*main*/
+    main {
+        margin-top: 68px;
     }
 }
