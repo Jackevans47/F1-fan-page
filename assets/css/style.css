@@ -83,3 +83,25 @@ footer {
     background-color: aqua;
 
 }
+
+/* Media Query for tablets*/
+@media screen and (min-width: 768px) {
+    nav {
+        display: block;
+        position: relative;
+        width: fit-content;
+        padding-right: 10px;
+    }
+
+    .menu {
+        display: flex;
+    }
+
+    .menu>li {
+        padding: 5px;
+    }
+
+    .drop-menu-icon {
+        display: none;
+    }
+}
