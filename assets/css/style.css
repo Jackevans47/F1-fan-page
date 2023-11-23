@@ -76,13 +76,31 @@ body {
 
 main {
     margin-top: 40px;
+
 }
 
 /*footer*/
+
+
+
+.social-menu {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.social-menu i {
+    font-size: 200%;
+    padding: 10px;
+}
+
 footer {
     background-color: aqua;
 
 }
+
+
 
 /* Media Query for tablets*/
 @media screen and (min-width: 768px)
