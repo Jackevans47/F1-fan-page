@@ -33,6 +33,11 @@ h1 {
 
 }
 
+h2 {
+    text-align: center;
+    font-size: 200%;
+}
+
 .menu {
     font-size: 110%;
     letter-spacing: 3px;
@@ -83,10 +88,38 @@ main {
 
 }
 
-#image-test {
+#image {
     display: flex;
-    width: 50vw;
-    height: 50vw;
+    justify-content: center;
+    width: 100%;
+    height: 400px;
+}
+
+#mclaren {
+    display: flex;
+    margin-bottom: 10px;
+
+
+
+
+}
+
+#williams {
+    display: flex;
+    margin-top: 5px;
+
+
+
+
+
+}
+
+#aston-martin {
+    display: flex;
+    margin-top: 5px;
+
+
+
 }
 
 /*footer*/
