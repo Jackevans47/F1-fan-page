@@ -109,6 +109,7 @@ main {
 
 }
 
+
 .about_us {
 
     display: inline-block;
@@ -130,6 +131,8 @@ main {
 
 
 
+
+
 }
 
 
@@ -140,25 +143,23 @@ main {
     width: 70%;
     font-size: 130%;
     letter-spacing: 2px;
-    margin-top: 20px;
+    margin-top: 100px;
     background-color: rgba(189, 195, 199, 0.5);
-
-
-
-
+    padding: 20px;
 
 
 
 }
 
 .meet {
-    width: 80%;
+    width: 70%;
     font-size: 130%;
     letter-spacing: 2px;
-    text-align: left;
-    margin-top: 20px;
+    text-align: center;
+    margin-top: 80px;
     margin-bottom: 20px;
     background-color: rgba(189, 195, 199, 0.5);
+    padding: 20px;
 
 
 
@@ -167,12 +168,14 @@ main {
 
 
 .events {
-    width: 100%;
+    width: 70%;
     font-size: 130%;
     letter-spacing: 2px;
-    text-align: right;
+    text-align: center;
     margin-bottom: 30px;
+    margin-top: 80px;
     background-color: rgba(189, 195, 199, 0.5);
+    padding: 20px;
 
 
 }
