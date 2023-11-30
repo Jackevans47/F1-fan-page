@@ -45,7 +45,7 @@ h2 {
 h3 {
     display: flex;
     justify-content: center;
-    font-size: 150%;
+    font-size: 170%;
     color: aliceblue;
 }
 
@@ -107,6 +107,17 @@ main {
     margin-top: 40px;
     background: url("../images/free-photo-of-formula-one-car-racing-at-championship.jpeg") no-repeat center/cover;
 
+}
+
+.about_us {
+
+    display: inline-block;
+}
+
+.about_us p {
+    text-align: start;
+    align-self: flex-start;
+    background-color: rgba(189, 195, 199, 0.5);
 }
 
 .facts {
