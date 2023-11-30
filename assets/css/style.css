@@ -8,7 +8,7 @@
 /* Header */
 header {
 
-    background-color: aqua;
+    background-color: red;
     padding: 0 5px;
     width: 100%;
     box-shadow: 0 1px 1px #3a3a3a;
@@ -36,19 +36,27 @@ h1 {
 h2 {
     text-align: center;
     font-size: 200%;
+    color: aliceblue;
+    background-color: grey;
+
+
 }
 
 h3 {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     font-size: 150%;
     color: aliceblue;
 }
 
+
 p {
 
     font-size: xx-large;
+    color: aliceblue;
 }
+
+
 
 .menu {
     font-size: 110%;
@@ -58,7 +66,7 @@ p {
 
 nav {
     position: absolute;
-    background-color: aqua;
+    background-color: grey;
     width: 100%;
     left: 0;
     padding: 0 10px;
@@ -116,10 +124,11 @@ main {
 .results {
 
     text-align: center;
-    width: 100%;
+    width: 70%;
     font-size: 130%;
     letter-spacing: 2px;
     margin-top: 20px;
+    background-color: rgba(189, 195, 199, 0.5);
 
 
 
@@ -130,23 +139,27 @@ main {
 }
 
 .meet {
-    width: 100%;
+    width: 80%;
     font-size: 130%;
     letter-spacing: 2px;
-    text-align: center;
+    text-align: left;
     margin-top: 20px;
     margin-bottom: 20px;
+    background-color: rgba(189, 195, 199, 0.5);
 
 
 
 }
 
+
+
 .events {
     width: 100%;
     font-size: 130%;
     letter-spacing: 2px;
-    text-align: center;
+    text-align: right;
     margin-bottom: 30px;
+    background-color: rgba(189, 195, 199, 0.5);
 
 
 }
@@ -185,7 +198,7 @@ main {
 /*footer*/
 
 footer {
-    background-color: aqua;
+    background-color: red;
     margin-top: auto;
 
 
