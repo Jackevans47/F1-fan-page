@@ -53,6 +53,10 @@ p {
     list-style-type: none;
 }
 
+.menu a:hover {
+    border-bottom: 2px solid #3a3a3a;
+}
+
 nav {
     position: absolute;
     background-color: grey;
@@ -86,7 +90,8 @@ body {
 }
 
 main {
-    min-height: 100vh;
+
+    flex: 1 0 auto;
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -186,6 +191,10 @@ footer {
     font-size: 200%;
     padding: 10px;
     color: bisque;
+}
+
+.social-menu a:hover {
+    border-bottom: 2px solid bisque;
 }
 
 /* Media Query for tablets*/
