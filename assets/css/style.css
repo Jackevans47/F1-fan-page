@@ -7,7 +7,6 @@
 
 /* Header */
 header {
-
     background-color: red;
     padding: 0 5px;
     width: 100%;
@@ -17,8 +16,6 @@ header {
     align-items: baseline;
     position: fixed;
     z-index: 99;
-
-
 }
 
 header a {
@@ -27,10 +24,8 @@ header a {
 }
 
 h1 {
-
     letter-spacing: 1px;
     color: #3a3a3a;
-
 }
 
 h2 {
@@ -38,8 +33,6 @@ h2 {
     font-size: 200%;
     color: aliceblue;
     background-color: grey;
-
-
 }
 
 h3 {
@@ -49,14 +42,10 @@ h3 {
     color: aliceblue;
 }
 
-
 p {
-
     font-size: xx-large;
     color: aliceblue;
 }
-
-
 
 .menu {
     font-size: 110%;
@@ -73,7 +62,6 @@ nav {
     box-shadow: 0 1px 1px #3a3a3a;
     display: none;
     top: 100%;
-
 }
 
 #drop-menu:checked~nav {
@@ -88,67 +76,52 @@ nav {
     font-size: 20px;
 }
 
-
 /* body */
 body {
     background-color: grey;
     width: 100%;
     display: flex;
     flex-direction: column;
-
-
+    min-height: 100vh;
 }
 
 main {
-
     min-height: 100vh;
     display: flex;
-    flex-direction: inherit;
-    margin-top: 40px;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
     background: url("../images/free-photo-of-formula-one-car-racing-at-championship.jpeg") no-repeat center/cover;
-
 }
 
-
 .about_us {
-
     display: inline-block;
 }
 
 .about_us p {
     text-align: start;
     align-self: flex-start;
-    background-color: rgba(189, 195, 199, 0.5);
+    background-color: rgba(0 0 0 / 50%);
     padding: 5px;
     margin-bottom: 10px;
 }
 
 .facts {
     height: 480px;
-    width: auto;
-
-
-
-
-
-
-
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-
-
 .results {
-
     text-align: center;
     width: 80%;
     font-size: 130%;
     letter-spacing: 2px;
     margin-top: 20px;
-    background-color: rgba(189, 195, 199, 0.5);
-
-
-
-
+    background-color: rgba(0 0 0 / 50%);
 }
 
 .meet {
@@ -158,14 +131,8 @@ main {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 10px;
-    background-color: rgba(189, 195, 199, 0.5);
-
-
-
-
+    background-color: rgba(0 0 0 / 50%);
 }
-
-
 
 .events {
     width: 80%;
@@ -174,13 +141,8 @@ main {
     text-align: center;
     margin-bottom: 10px;
     margin-top: 20px;
-    background-color: rgba(189, 195, 199, 0.5);
-
-
-
+    background-color: rgba(0 0 0 / 50%);
 }
-
-
 
 #image {
     display: flex;
@@ -193,36 +155,24 @@ main {
     display: flex;
     flex-wrap: wrap;
     margin-top: auto;
-
 }
 
 .times div {
     text-align: center;
     padding: 10px;
-
-    background-color: rgba(189, 195, 199, 0.5);
+    background-color: rgba(0 0 0 / 50%);
     flex: 300px;
     flex-grow: 1;
     border-width: 1px;
     border-style: dotted;
     border-color: red;
-
-
-
 }
-
-
-
 
 /*footer*/
 
 footer {
     background-color: red;
     margin-top: auto;
-
-
-
-
 }
 
 .social-menu {
@@ -235,11 +185,8 @@ footer {
 .social-menu i {
     font-size: 200%;
     padding: 10px;
+    color: bisque;
 }
-
-
-
-
 
 /* Media Query for tablets*/
 @media screen and (min-width: 768px)
