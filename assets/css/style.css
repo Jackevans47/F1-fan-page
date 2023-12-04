@@ -149,6 +149,39 @@ main {
     background-color: rgba(0 0 0 / 50%);
 }
 
+.track {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: auto;
+}
+
+.track div {
+    text-align: center;
+    padding: 40px;
+    background-color: rgba(0 0 0 / 50%);
+    flex: 300px;
+    flex-grow: 1;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: red;
+}
+
+.silverstone {
+    background: url("../images/silverstone.avif") no-repeat center/contain;
+}
+
+.monaco {
+    background: url("../images/Monoco.avif") no-repeat center/contain;
+}
+
+.australian {
+    background: url("../images/Australia.avif") no-repeat center/contain;
+}
+
+.miami {
+    background: url("../images/miami.avif")no-repeat center/contain;
+}
+
 #image {
     display: flex;
     justify-content: center;
