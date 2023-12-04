@@ -173,6 +173,16 @@ main {
     border-color: red;
 }
 
+.signup-page {
+    background-color: red;
+    margin-bottom: 20px;
+}
+
+.question {
+    background-color: red;
+    margin-top: 20px;
+}
+
 /*footer*/
 
 footer {
