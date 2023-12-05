@@ -51,6 +51,7 @@ p {
     font-size: 110%;
     letter-spacing: 3px;
     list-style-type: none;
+    margin-bottom: 10px;
 }
 
 .menu a:hover {
@@ -288,8 +289,4 @@ footer {
 }
 
 /*Media Query for laptops*/
-@media screen and (min-width: 992px) {
-    .menu a:hover {
-        border-bottom: 2px solid #3a3a3a;
-    }
-}
+@media screen and (min-width: 992px) {}
