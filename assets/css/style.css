@@ -217,12 +217,14 @@ main {
 
 .signup-page {
     background-color: red;
-    margin-bottom: 20px;
+    margin-top: 20px;
+
 }
 
 .question {
     background-color: red;
-    margin-top: 20px;
+    margin-top: 5px;
+
 }
 
 /*footer*/
