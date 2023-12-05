@@ -113,58 +113,67 @@ main {
 }
 
 .facts {
-    height: 480px;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    display: inline-block;
+}
+
+.facts p {
+    text-align: start;
+    align-self: flex-start;
+    background-color: rgba(0 0 0 / 50%);
+    padding: 5px;
+    margin-bottom: 10px;
 }
 
 .results {
     text-align: center;
     width: 80%;
-    font-size: 130%;
+    font-size: 110%;
     letter-spacing: 2px;
-    margin-top: 20px;
+    margin-top: 10px;
     background-color: rgba(0 0 0 / 50%);
+
+
 }
 
 .meet {
     width: 80%;
-    font-size: 130%;
+    font-size: 110%;
     letter-spacing: 2px;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 10px;
     background-color: rgba(0 0 0 / 50%);
 }
 
 .events {
     width: 80%;
-    font-size: 130%;
+    font-size: 110%;
     letter-spacing: 2px;
     text-align: center;
     margin-bottom: 10px;
-    margin-top: 20px;
+    margin-top: 10px;
     background-color: rgba(0 0 0 / 50%);
 }
+
 
 .track {
     display: flex;
     flex-wrap: wrap;
-    margin-top: auto;
+    flex-direction: column;
+
 }
 
 .track div {
     text-align: center;
-    padding: 40px;
+    padding: 10px;
     background-color: rgba(0 0 0 / 50%);
     flex: 300px;
     flex-grow: 1;
-    border-width: 2px;
+    border-width: 1px;
     border-style: dotted;
     border-color: red;
 }
+
 
 .silverstone {
     background: url("../images/silverstone.avif") no-repeat center/contain;
