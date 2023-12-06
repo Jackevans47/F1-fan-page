@@ -25,21 +25,19 @@ header a {
 
 h1 {
     letter-spacing: 1px;
-    color: #3a3a3a;
+    color: antiquewhite;
 }
 
 h2 {
     text-align: center;
     font-size: 200%;
-    color: aliceblue;
-    background-color: grey;
+    color: antiquewhite;
 }
 
 h3 {
-    display: flex;
-    justify-content: center;
+    text-align: left;
     font-size: 170%;
-    color: aliceblue;
+    color: antiquewhite;
 }
 
 p {
@@ -52,6 +50,7 @@ p {
     letter-spacing: 3px;
     list-style-type: none;
     margin-bottom: 10px;
+    color: antiquewhite;
 }
 
 .menu a:hover {
@@ -105,33 +104,46 @@ main {
     display: inline-block;
 }
 
+.about_us h2 {
+    background-color: antiquewhite;
+    color: black;
+}
+
 .about_us p {
     text-align: start;
     align-self: flex-start;
     background-color: rgba(0 0 0 / 50%);
+    color: antiquewhite;
     padding: 5px;
-    margin-bottom: 10px;
+    margin-top: 5px;
 }
 
 .facts {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px;
+    background: rgba(0 0 0 / 50%);
 }
 
 .facts p {
     text-align: start;
     align-self: flex-start;
-    background-color: rgba(0 0 0 / 50%);
+    background-color: rgba(0 0 0 / 0%);
     padding: 5px;
     margin-bottom: 10px;
 }
 
 .results {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     text-align: center;
     width: 80%;
     font-size: 110%;
     letter-spacing: 2px;
-    margin-top: 10px;
-    background-color: rgba(0 0 0 / 50%);
+    background-color: rgba(0 0 0 / 0%);
 
 
 }
@@ -141,9 +153,7 @@ main {
     font-size: 110%;
     letter-spacing: 2px;
     text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    background-color: rgba(0 0 0 / 50%);
+    background-color: rgba(0 0 0 / 0%);
 }
 
 .events {
@@ -151,9 +161,7 @@ main {
     font-size: 110%;
     letter-spacing: 2px;
     text-align: center;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    background-color: rgba(0 0 0 / 50%);
+    background-color: rgba(0 0 0 / 0%);
 }
 
 
@@ -205,6 +213,10 @@ main {
     margin-top: auto;
 }
 
+.times p {
+    color: antiquewhite;
+}
+
 .times div {
     text-align: center;
     padding: 10px;
@@ -217,15 +229,30 @@ main {
 }
 
 .signup-page {
-    background-color: rgba(255 0 0 / 70%);
+    background-color: rgba(0 0 0 /70%);
     margin-top: 20px;
     color: antiquewhite;
+    font-size: x-large;
+}
+
+.dont-miss-out {
+    text-align: center;
+    font-size: larger;
 }
 
 .question {
-    background-color: rgba(255 0 0 / 70%);
+    background-color: rgba(0 0 0 /70%);
     margin-top: 5px;
     color: antiquewhite;
+    font-size: larger;
+}
+
+.buttons {
+    font-size: larger;
+}
+
+.question h3 {
+    padding: 10px;
 }
 
 /*footer*/
