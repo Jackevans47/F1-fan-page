@@ -27,8 +27,8 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 
 ### Frequent visitors:
 
-*As a frequent user, I want to be able to find out more about race meets.
-*As a frequent user, I want to use the site to meet likeminded individuals with the same interest in F1.
+* As a frequent user, I want to be able to find out more about race meets.
+* As a frequent user, I want to use the site to meet likeminded individuals with the same interest in F1.
 
 ## Features
 
