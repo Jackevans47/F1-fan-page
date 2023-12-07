@@ -64,11 +64,27 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
     * shows the user what to expect from the site.
   
      
-       - Top of the page
+       - Top of the Homepage
       <img width="1425" alt="Homepage top" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/6ee4a736-8fed-4d5e-8c6a-7f4efd8489a8">
 
-       - Bottom of the page
+       - Bottom of the Homepage
 ![Home bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/f89e2996-96de-405b-af5d-778b13619c0e)
 
 
 ---
+
++ #### Main Background
+
+  -A background image is present on all pages and is responsive to which screen it is being viewed from.
+
+  - Mobile view
+<img width="615" alt="Mobile background" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/80dafdcb-295d-402f-bfeb-dfcddf8836b6">
+
+- Tablet view
+<img width="491" alt="Tablet background" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/bf1ba349-5531-48c0-8666-3217960bae30">
+
+- Desktop view
+<img width="1422" alt="Desktop background" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/18f786d2-0be2-476d-a945-bdf1b5d715fd">
+
+---
+ 
