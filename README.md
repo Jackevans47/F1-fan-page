@@ -54,3 +54,21 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 
 
 ---
+
++ ### Home page
+
+  - Represent:
+
+    * the main idea of the company.
+    * shows the tracks avaliable to watch.
+    * shows the user what to expect from the site.
+  
+     
+       - Top of the page
+      <img width="1425" alt="Homepage top" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/6ee4a736-8fed-4d5e-8c6a-7f4efd8489a8">
+
+       - Bottom of the page
+![Home bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/f89e2996-96de-405b-af5d-778b13619c0e)
+
+
+---
