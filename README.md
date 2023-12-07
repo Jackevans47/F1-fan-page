@@ -106,4 +106,11 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
     - It has the images of the tracks that are transparent so still shows the main background image.
    ![Tracks](https://github.com/Jackevans47/F1-fan-page/assets/148341732/7cb7caba-57d7-45dc-b487-6b83cfa94b29)
 
-      
+   ---
+  + #### Footer
+ 
+    -Footer contains links to social media sites that open in a new tab.
+       ![Footer](https://github.com/Jackevans47/F1-fan-page/assets/148341732/f58dce9b-56c0-4a72-8f3e-aa20823a8ef6)
+
+    ---
+
