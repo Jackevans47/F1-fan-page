@@ -88,3 +88,22 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 
 ---
  
++ #### Join us section
+
+  - Tells the user what to expect from site.
+ 
+  - Informs the user of upcoming results.
+ 
+  - Shows user Events and socials.
+ 
+    <img width="784" alt="Join us section" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fb5aeb1a-4472-485b-b499-398e55226ef0">
+
+    ---
+    + #### Tracks
+
+    - Shows a few of the upcoming tracks for F1 Races.
+
+    - It has the images of the tracks that are transparent so still shows the main background image.
+   ![Tracks](https://github.com/Jackevans47/F1-fan-page/assets/148341732/7cb7caba-57d7-45dc-b487-6b83cfa94b29)
+
+      
