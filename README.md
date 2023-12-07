@@ -27,5 +27,30 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 
 ### Frequent visitors:
 
-As a frequent user, I want to be able to find out more about race meets.
-As a frequent user, I want to use the site to meet likeminded individuals with the same interest in F1.
+*As a frequent user, I want to be able to find out more about race meets.
+*As a frequent user, I want to use the site to meet likeminded individuals with the same interest in F1.
+
+## Features
+
++ ### Navbar
+
++ #### Navigation
+  - Positioned at the top of the page.
+  - Contains the title of the website.
+  - Contains navigation links on the right side:
+    * HOME - Leads to the home page where users can see what the site offers.
+    * ABOUT US - Leads to the ABOUT US section which gives a description of what the site is about and meet up times.
+    * SIGN UP - Leads to the sign up page where users can sign up to keep up to date regarding F1.
+   - The links have a hover effect.
+   - The navigation is clear for users to understand.<img width="1004" alt="Navbar" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/6bc5a71d-c4da-45b7-9fa7-73fa6627ebcb">
+
+- The navigation bar is responsive:
+  * On mobile devices:
+ - A hamburger menu is implimented.
+   - <img width="488" alt="Navbar mobile closed" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/1a20d124-7da3-4cb5-a52e-f8592d5caf2c">
+
+   - When the hamburger menu is clicked, the dropdown menu appears with the links.
+<img width="487" alt="Navbar mobile open" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/90108df3-fb7e-4f23-9a62-2535acd66b38">
+
+
+---
