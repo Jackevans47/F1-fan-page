@@ -90,7 +90,6 @@ body {
 }
 
 main {
-
     flex: 1 0 auto;
     display: flex;
     flex-direction: column;
@@ -144,8 +143,6 @@ main {
     font-size: 110%;
     letter-spacing: 2px;
     background-color: rgba(0 0 0 / 0%);
-
-
 }
 
 .meet {
@@ -169,7 +166,6 @@ main {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-
 }
 
 .track div {
@@ -182,7 +178,6 @@ main {
     border-style: dotted;
     border-color: red;
 }
-
 
 .silverstone {
     background: url("../images/silverstone.avif") no-repeat center/contain;
