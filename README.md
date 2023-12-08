@@ -133,7 +133,7 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
     
       - The sign up form is set to be required.
       -  It has checkboxes for the optional survey.
-      -  When either form is sumbitted, leads to code institute page for sucsessful sign up showing the form is functional.
+      -  When either form is sumbitted, leads to code institute page for successful sign up showing the form is functional.
    
         
     + ### Features left to impliment
