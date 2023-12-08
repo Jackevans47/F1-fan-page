@@ -189,3 +189,10 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 ![F1 Fan Page Signup Desktop 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/e5a57d79-6002-49cf-ad72-99552845c6b4)
 
 ---
+
+## Testing
+
+### Validator testing
+
+*HTML
+ - No errors were found when passing through the official https://validator.w3.org/nu/#textarea
