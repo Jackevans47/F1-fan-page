@@ -138,3 +138,14 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
       <img width="1439" alt="Sign up page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fdd4e33a-5ab5-4606-b89d-b0b7b57c8dc3">
 
    ---
+## Technology used
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages. 
+- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+- [Git](https://git-scm.com/) was used for the version control of the website.
+- [GitHub](https://github.com/) was used to host the code of the website.
+
+
+---
