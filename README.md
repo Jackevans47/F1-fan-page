@@ -124,7 +124,7 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
  
   - It has an identical footer to the home page.
 
-![About us](https://github.com/Jackevans47/F1-fan-page/assets/148341732/b9e6bbd4-cb1e-4967-b0fe-65087c2ba6a3)
+![About us section](https://github.com/Jackevans47/F1-fan-page/assets/148341732/1cf806fe-f4f4-498b-9867-121906cc1453)
 
 
 ---
