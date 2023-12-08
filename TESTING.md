@@ -23,12 +23,42 @@ In order to test the website for correct appearance, reponsivness and functional
 
     - Main page Mobile:
    
-      ![devtools mobile](https://github.com/Jackevans47/F1-fan-page/assets/148341732/aa8786b3-a17a-45fc-bb89-184b345fb3b1)
+      ![Devtools home mobile](https://github.com/Jackevans47/F1-fan-page/assets/148341732/3c383962-9d4f-4e94-8355-086d6bad4f10)
 
       - Main page tablet:
       
-      ![Devtools tablet](https://github.com/Jackevans47/F1-fan-page/assets/148341732/cc5ec29d-958f-4afd-ae96-0c7c24daef29)
+      ![Devtools home tablet](https://github.com/Jackevans47/F1-fan-page/assets/148341732/2f5b7e80-52e0-40bd-9108-951413ce8ae4)
 
       - Main page Desktop:
         
-      ![Devtools desktop](https://github.com/Jackevans47/F1-fan-page/assets/148341732/4d024f8f-5c4c-4fdc-bfc3-98ef3fc782dc)
+      ![Devtools home desktop](https://github.com/Jackevans47/F1-fan-page/assets/148341732/00d97a3f-57a7-4fda-9cf6-22c513fb41cf)
+
+      - About us page mobile:
+
+      ![Devtools about us mobile](https://github.com/Jackevans47/F1-fan-page/assets/148341732/64a95556-fd5b-473e-9d84-09e08f7b0da9)
+
+      - About us page tablet:
+      ![Devtools about us tablet](https://github.com/Jackevans47/F1-fan-page/assets/148341732/226a2e8f-8632-4972-b33c-a995ae07e206)
+
+
+      -About us page desktop:
+      ![Devtools about us desktop](https://github.com/Jackevans47/F1-fan-page/assets/148341732/9cc78e29-da86-451e-9ae5-cc81461cd2ee)
+
+
+      - Sign up page mobile:
+     ![Devtools signup mobile](https://github.com/Jackevans47/F1-fan-page/assets/148341732/c9e2c779-c998-4f96-97b2-59eca7618da4)
+
+
+      - Sign up page tablet:
+     ![Devtools signup tablet](https://github.com/Jackevans47/F1-fan-page/assets/148341732/ef52a0b4-691d-44c1-bebb-5f8b72695a3e)
+
+
+      - Sign up page desktop
+     ![Devtools signup desktop](https://github.com/Jackevans47/F1-fan-page/assets/148341732/63feace3-1f4e-4419-9033-1afd375be835)
+
+## Manual testing
+
+
+        
+
+
