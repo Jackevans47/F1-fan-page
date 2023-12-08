@@ -6,7 +6,7 @@ The F1 Fan Page webite allows people who love F1 to be able to interact and meet
 
 The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-page/) 
 
-![Responsive F1 page](https://github.com/Jackevans47/F1-fan-page/assets/148341732/26fa2275-15c5-4e5a-bdf0-78cf75763bc5)
+![Responsive F1 page](https://github.com/Jackevans47/F1-fan-page/assets/148341732/26fa2275-15c5-4e5a-bdf0-78cf75763bc5) needs updating
 
 
 ---
@@ -64,7 +64,7 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
     * shows the user what to expect from the site.
   
      
-       - Top of the Homepage
+       - Top of the Homepage-needs updating
       <img width="1425" alt="Homepage top" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/6ee4a736-8fed-4d5e-8c6a-7f4efd8489a8">
 
        - Bottom of the Homepage
@@ -97,7 +97,7 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
  
   - Shows user Events and socials.
  
-    <img width="784" alt="Join us section" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fb5aeb1a-4472-485b-b499-398e55226ef0">
+    <img width="784" alt="Join us section" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fb5aeb1a-4472-485b-b499-398e55226ef0"> needs updating
 
     ---
     + #### Tracks
@@ -124,7 +124,7 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
  
   - It has an identical footer to the home page.
  
-    <img width="1440" alt="About us page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/6528069c-3a62-472a-ad96-c8ba18111c76">
+   needs updating <img width="1440" alt="About us page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/6528069c-3a62-472a-ad96-c8ba18111c76">
 
 
 ---
@@ -143,7 +143,7 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
       - When completing the sign up page, the user is directed to another page with a "thank you for signing up, please await email confirmation" message.  
   
 
-      <img width="1439" alt="Sign up page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fdd4e33a-5ab5-4606-b89d-b0b7b57c8dc3">
+     needs updating <img width="1439" alt="Sign up page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fdd4e33a-5ab5-4606-b89d-b0b7b57c8dc3">
 
    ---
 ## Technology used
