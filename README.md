@@ -4,7 +4,7 @@
 
 The F1 Fan Page webite allows people who love F1 to be able to interact and meet up over their love for the sport.
 
-The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-page/) 
+The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-page/) 
 
 ![Responsive F1 Page](https://github.com/Jackevans47/F1-fan-page/assets/148341732/b90251fa-d9d7-4f7d-9843-f0094af0ae74)
 
@@ -127,3 +127,126 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 
 
 ---
++ ### Sign up page
+
+  - Sign up page contains a form to sign up to the group and to complete an optional survey:
+    
+      - The sign up form is set to be required.
+      -  It has checkboxes for the optional survey.
+      -  When either form is sumbitted, leads to code institute page for successful sign up showing the form is functional.
+   
+        
+    + ### Features left to impliment
+ 
+      - When completing the survey page, the user is directed to another page with a "thank you for completing the survey" message before being taken back to the home page automatically.
+      - When completing the sign up page, the user is directed to another page with a "thank you for signing up, please await email confirmation" message.  
+  
+
+      <img width="1439" alt="Sign up page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fdd4e33a-5ab5-4606-b89d-b0b7b57c8dc3">
+
+   ---
+## Technology used
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages. 
+- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+- [Git](https://git-scm.com/) was used for the version control of the website.
+- [GitHub](https://github.com/) was used to host the code of the website.
+
+
+---
+## Design
+
+### Colour Scheme
+<img width="142" alt="Red" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/95c83ba4-7546-4f70-a8b7-cf3ab89c84eb">  <img width="143" alt="White" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/dcbd4c22-f829-4bff-afaf-14a6d1bad1b6"> <img width="141" alt="Atiquewhite" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/ed3c8d50-8f68-4178-9de0-52ff9ac598a6"> <img width="142" alt="Grey" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/773d6da0-7c18-441d-a183-a0581c3e8189">
+
+- Red #ff0000 was used for the header and footer.
+ 
+- For the text a combination of white #fff and antiquewhite #faebd7 was used.
+
+- Grey #808080 was used for the navigation bar.
+
+- The combination of red and grey was used on the site to match the background image to keep to a similar scheme.
+
+### Wireframes
+
+#### Mobile devices
+
+![F1 Fan Page Home Mobile 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/a69f64ec-a440-4c52-93d7-ea8e47539e9a)
+
+![F1 Fan Page About us Mobile 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/75c6a90f-b3b8-4aaa-8b79-ce898efc3cfb)
+
+![F1 Fan Page Sign up Mobile 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/a96605dc-0e53-4802-8acc-af44fea125a1)
+
+#### Tablet devices
+  
+![F1 Fan Page Home Tablet 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/c73776e7-1afb-4c06-b55e-000941056d17)
+
+![F1 Fan Page About us Tablet 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/d9047677-09c5-4b29-b855-e7f4302966b7)
+
+![F1 Fan Page Sign up Tablet 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/b8b35680-efa1-4437-92f3-3dae13ec2f55)
+
+#### Desktop
+
+![F1 Fan Page Home Desktop 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/9024223a-7563-4195-b17d-78b87d4c52b9)
+
+![F1 Fan Page About us Desktop 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/06d81d5f-b82a-40db-9277-fb125fc38639)
+
+![F1 Fan Page Signup Desktop 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/e5a57d79-6002-49cf-ad72-99552845c6b4)
+
+---
+
+## Testing
+
+### Validator testing
+
+Please refer to [TESTING.md](TESTING.md) for all testing documentation.
+
+---
+
+
+## Deployment
+
+ Deployment to GitHub pages
+
+ - The site was deployed to GitHub pages. The steps are as follows:
+ - 
+    - In the [GitHub repository](https://github.com/Jackevans47/F1-fan-page), go to the settings tab
+    - From the source section drop-down menu, select the **Main** Branch, then click Save.
+    - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+    - The live link can be found [here](https://jackevans47.github.io/F1-fan-page/)
+  
+      ---
+## Future improvments 
+- add favicon with [Favicon Generator. For real.](https://realfavicongenerator.net/);
+- add fully functional sign up and survey forms.
+- add links to tracks to user can find out more about them.
+
+  ---
+## Credits
+
++ #### Media
+
+   + Main background image from [Pexels](https://www.pexels.com/).
+      - [Background image](https://www.pexels.com/photo/formula-one-car-racing-at-championship-18814841/)
+    
+     + Track images from [Formula 1](https://www.formula1.com/en.html).
+       
+        -[Silverstone](https://www.formula1.com/en/information.great-britain-silverstone-circuit.2DtFVI1FjkYgLVdGhbAIv0.html).
+       
+       -[Australian](https://www.formula1.com/en/information.australia-melbourne-grand-prix-circuit.4LZLnnP4nXDFVVD01EdvvG.html).
+       
+       -[Monaco](https://www.formula1.com/en/information.monaco-circuit-de-monaco-monte-carlo.2ZWRtIcSI6ZzVGX1uGRpkJ.html).
+       
+       -[Miami](https://www.formula1.com/en/racing/2022/Miami/Circuit.html).
+
+
+       ---
+       
+## Acknowledgments
+
+- [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
+
+  ---
