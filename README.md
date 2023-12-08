@@ -127,3 +127,11 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 
 
 ---
++ ### Sign up page
+
+  - Sign up page contains a form to sign up to the group and to complete an optional survey:
+      - The sign up form is set to be required.
+      -  It has checkboxes for the optional survey.
+
+
+   ---
