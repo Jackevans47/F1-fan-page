@@ -219,3 +219,9 @@ Please refer to [TESTING.md](TESTING.md) for all testing documentation.
     - The live link can be found [here](https://jackevans47.github.io/F1-fan-page/)
   
       ---
+## Future improvments 
+- add favicon with [Favicon Generator. For real.](https://realfavicongenerator.net/);
+- add fully functional sign up and survey forms.
+- add links to tracks to user can find out more about them.
+
+  ---
