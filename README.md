@@ -194,5 +194,6 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 
 ### Validator testing
 
-*HTML
- - No errors were found when passing through the official https://validator.w3.org/nu/#textarea
+Please refer to [TESTING.md](TESTING.md) for all testing documentation.
+
+---
