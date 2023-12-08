@@ -56,6 +56,24 @@ In order to test the website for correct appearance, reponsivness and functional
 
 ## Manual testing
 
+| feature | action | expected result | tested | passed | comments |
+| --- | --- | --- | --- | --- | --- |
+| Navbar | | | | | |
+| Home | Click on the "Home" link | The user is redirected to the main page | Yes | Yes | - |
+| Gallery | Click on the "About us" link | The user is redirected to the About us page | Yes | Yes | - |
+| Contact | Click on the "Sign up" link | The user is redirected to the Sign up page | Yes | Yes | - |
+| Footer | | | | | |
+| Instagram icon in the footer | Click on the Instagram icon | The user is redirected to the Instagram page | Yes | Yes | - |
+| Facebook icon in the footer | Click on the Facebook icon | The user is redirected to the Facebook page | Yes | Yes | - |
+| Twitter icon in the footer | Click on the Twitter icon | The user is redirected to the Twitter page | Yes | Yes | - |
+| YouTube icon in the footer | Click on the YouTube icon | The user is redirected to the YouTube page | Yes | Yes | - |
+| TikTok icon in the footer | Click on the TikTok icon | The user is redirected to the TikTok page | Yes | Yes | - |
+| Sign up page | | | | | |
+| First name input | Enter the first name | The first name is entered | Yes | Yes | If user doesn't enter the first name, the error message appears |
+| Surname input | Enter the Surname | The Surname is entered | Yes | Yes | If user doesn't enter the Surname, the error message appears |
+| Email input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
+| Survey checkbox | Click on the checkbox | The checkbox is checked | Yes | Yes | These checkboxes are not required as the user can choose not to complete the optional survey |
+| "Submit" button | Click on the "Submit" button | The user is redirected to the CI successfull submission page | Yes | Yes | - |
 
         
 
