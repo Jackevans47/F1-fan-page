@@ -8,13 +8,11 @@ In order to test the website for correct appearance, reponsivness and functional
 + The website was tested on: Chrome and Firefox.
 
   - Chrome:
-  
-![Chrome home top](https://github.com/Jackevans47/F1-fan-page/assets/148341732/44cfd116-e26b-49ef-a60b-4fcf86cba320)
-![Chrome home bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/d941dd6d-8306-4a4b-b2c2-6b4f24095992)
+  ![Chrome home](https://github.com/Jackevans47/F1-fan-page/assets/148341732/db8bd426-d047-4df9-962d-b9eb130d87d2)
+  ![Chrome home bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/d941dd6d-8306-4a4b-b2c2-6b4f24095992)
 
   - Firefox:
-
-  ![Fire fox home top](https://github.com/Jackevans47/F1-fan-page/assets/148341732/086660c3-2f28-4c7c-909b-aec3b603916e)
+  ![Firefox home](https://github.com/Jackevans47/F1-fan-page/assets/148341732/5d155f2e-9fe4-49a1-9d4b-6ebe0287e2fb)
   ![Fire fox home bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/fdfc9af3-39d9-4519-b0be-c0ecb1bf5b30)
 
   ## Responsiveness
