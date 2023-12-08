@@ -135,7 +135,7 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
       -  It has checkboxes for the optional survey.
       -  When either form is sumbitted, leads to code institute page for sucsessful sign up showing the form is functional.
    
-        =
+        
     + ### Features left to impliment
  
       - When completing the survey page, the user is directed to another page with a "thank you for completing the survey" message before being taken back to the home page automatically.
