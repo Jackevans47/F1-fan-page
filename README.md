@@ -130,8 +130,11 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 + ### Sign up page
 
   - Sign up page contains a form to sign up to the group and to complete an optional survey:
+    
       - The sign up form is set to be required.
       -  It has checkboxes for the optional survey.
+      -  When either form is sumbitted, leads to code institute page for sucsessful sign up showing the form is functional.
 
+      <img width="1439" alt="Sign up page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fdd4e33a-5ab5-4606-b89d-b0b7b57c8dc3">
 
    ---
