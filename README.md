@@ -241,3 +241,12 @@ Please refer to [TESTING.md](TESTING.md) for all testing documentation.
        -[Monaco](https://www.formula1.com/en/information.monaco-circuit-de-monaco-monte-carlo.2ZWRtIcSI6ZzVGX1uGRpkJ.html).
        
        -[Miami](https://www.formula1.com/en/racing/2022/Miami/Circuit.html).
+
+
+       ---
+       
+## Acknowledgments
+
+- [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
+
+  ---
