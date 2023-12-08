@@ -76,5 +76,27 @@ In order to test the website for correct appearance, reponsivness and functional
 | "Submit" button | Click on the "Submit" button | The user is redirected to the CI successfull submission page | Yes | Yes | - |
 
         
+---
+## Validator testing
++ ### HTML
++ #### Home Page
+  - No errors or warnings found when passing throught the offical W3C validator
+![W3C index html](https://github.com/Jackevans47/F1-fan-page/assets/148341732/bddb1b51-f98a-4efc-81a4-e9034edcac46)
 
 
+#### About us page
+  - No errors or warnings found when passing throught the offical W3C validator
+     
+ ![W3C about us html](https://github.com/Jackevans47/F1-fan-page/assets/148341732/62f6a2b0-769d-413b-ae96-85a9f1ba4179)
+
+#### Sign up page 
+  - No errors or warnings found when passing throught the offical W3C validator
+    
+ ![W3C sign up html](https://github.com/Jackevans47/F1-fan-page/assets/148341732/0a6881ef-803c-427c-8b84-fad439fdf87a)
+
+     + ### CSS
+     -  No errors or warnings were found when passing through the official W3C (Jigsaw) validator
+     
+ ![W3C CSS](https://github.com/Jackevans47/F1-fan-page/assets/148341732/2db64a6a-c7ed-43dd-9c44-4880c6365bce)
+
+      
