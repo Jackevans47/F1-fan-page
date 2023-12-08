@@ -115,3 +115,11 @@ In order to test the website for correct appearance, reponsivness and functional
 
 
 ---
+## Bugs
++ ### Solved bugs
+ 1. Encoundered issues with main background image fitting on the screen, this was fixed by using flex.
+
+ 2. Encountered issue on vs code where i lost my progress, managed to find my lost code so didnt have to start from the beginning.
+
+    + ### Mistakes
+      - Made a mistake on vs code losing my progress. Managed to save my work but not the repository progress before the error. 
