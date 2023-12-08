@@ -99,4 +99,19 @@ In order to test the website for correct appearance, reponsivness and functional
      
  ![W3C CSS](https://github.com/Jackevans47/F1-fan-page/assets/148341732/2db64a6a-c7ed-43dd-9c44-4880c6365bce)
 
-      
+ + ## Lighthouse report
+   - Using lighthouse in devtools, I confirmed that the website accessible, performs well and all design choices allow the text to be readable.
+  
+     ### Home page
+     ![Lighthouse home](https://github.com/Jackevans47/F1-fan-page/assets/148341732/a0ea1eb5-6059-4f71-bdd5-d7e4dfb55c5d)
+
+
+      ### About us page
+     ![Lighthouse about us](https://github.com/Jackevans47/F1-fan-page/assets/148341732/5ec1ee59-90dc-43f7-bbca-c074c99904e9)
+
+
+      ### Sign up page
+     ![Lighthouse sign up](https://github.com/Jackevans47/F1-fan-page/assets/148341732/9a2a77f2-5efb-4074-8616-307ebc32e72d)
+
+
+---
