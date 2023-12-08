@@ -134,6 +134,13 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
       - The sign up form is set to be required.
       -  It has checkboxes for the optional survey.
       -  When either form is sumbitted, leads to code institute page for sucsessful sign up showing the form is functional.
+   
+        =
+    + ### Features left to impliment
+ 
+      - When completing the survey page, the user is directed to another page with a "thank you for completing the survey" message before being taken back to the home page automatically.
+      - When completing the sign up page, the user is directed to another page with a "thank you for signing up, please await email confirmation" message.  
+  
 
       <img width="1439" alt="Sign up page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fdd4e33a-5ab5-4606-b89d-b0b7b57c8dc3">
 
