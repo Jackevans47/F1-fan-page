@@ -29,6 +29,7 @@ h1 {
 }
 
 h2 {
+    padding: 5px;
     text-align: center;
     font-size: 200%;
     color: antiquewhite;
@@ -100,7 +101,11 @@ main {
 }
 
 .about_us {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
 }
 
 .about_us h2 {
@@ -122,8 +127,13 @@ main {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding: 5px;
+    padding: 40px;
     background: rgba(0 0 0 / 50%);
+}
+
+.facts h2 {
+    background-color: antiquewhite;
+    color: black;
 }
 
 .facts p {
@@ -231,6 +241,11 @@ main {
 }
 
 .signup-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
     background-color: rgba(0 0 0 /70%);
     margin-top: 20px;
     color: antiquewhite;
@@ -243,6 +258,11 @@ main {
 }
 
 .question {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
     background-color: rgba(0 0 0 /70%);
     margin-top: 5px;
     color: antiquewhite;
