@@ -166,10 +166,26 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 
 #### Mobile devices
 
--[F1 Fan Page Home Mobile .png.zip](https://github.com/Jackevans47/F1-fan-page/files/13612751/F1.Fan.Page.Home.Mobile.png.zip)
+![F1 Fan Page Home Mobile 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/a69f64ec-a440-4c52-93d7-ea8e47539e9a)
 
--[F1 Fan Page About us Mobile 2.png.zip](https://github.com/Jackevans47/F1-fan-page/files/13612758/F1.Fan.Page.About.us.Mobile.2.png.zip)
+![F1 Fan Page About us Mobile 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/75c6a90f-b3b8-4aaa-8b79-ce898efc3cfb)
 
--[F1 Fan Page Sign up Mobile .png.zip](https://github.com/Jackevans47/F1-fan-page/files/13612760/F1.Fan.Page.Sign.up.Mobile.png.zip)
+![F1 Fan Page Sign up Mobile 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/a96605dc-0e53-4802-8acc-af44fea125a1)
 
-  ---
+#### Tablet devices
+  
+![F1 Fan Page Home Tablet 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/c73776e7-1afb-4c06-b55e-000941056d17)
+
+![F1 Fan Page About us Tablet 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/d9047677-09c5-4b29-b855-e7f4302966b7)
+
+![F1 Fan Page Sign up Tablet 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/b8b35680-efa1-4437-92f3-3dae13ec2f55)
+
+#### Desktop
+
+![F1 Fan Page Home Desktop 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/9024223a-7563-4195-b17d-78b87d4c52b9)
+
+![F1 Fan Page About us Desktop 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/06d81d5f-b82a-40db-9277-fb125fc38639)
+
+![F1 Fan Page Signup Desktop 2](https://github.com/Jackevans47/F1-fan-page/assets/148341732/e5a57d79-6002-49cf-ad72-99552845c6b4)
+
+---
