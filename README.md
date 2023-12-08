@@ -6,7 +6,7 @@ The F1 Fan Page webite allows people who love F1 to be able to interact and meet
 
 The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-page/) 
 
-![Responsive F1 Page](https://github.com/Jackevans47/F1-fan-page/assets/148341732/b90251fa-d9d7-4f7d-9843-f0094af0ae74)
+![Responsive F1 page](https://github.com/Jackevans47/F1-fan-page/assets/148341732/26fa2275-15c5-4e5a-bdf0-78cf75763bc5)
 
 
 ---
@@ -68,7 +68,7 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
       <img width="1425" alt="Homepage top" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/6ee4a736-8fed-4d5e-8c6a-7f4efd8489a8">
 
        - Bottom of the Homepage
-![Home bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/f89e2996-96de-405b-af5d-778b13619c0e)
+![Homepage bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/53ad0e63-ff27-4c64-80a0-432d215ce581)
 
 
 ---
@@ -81,10 +81,11 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
 <img width="615" alt="Mobile background" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/80dafdcb-295d-402f-bfeb-dfcddf8836b6">
 
 - Tablet view
-<img width="491" alt="Tablet background" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/bf1ba349-5531-48c0-8666-3217960bae30">
+<img width="491" alt="Tablet background" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/752b5d38-12e5-4192-88e8-e2f2af052e9b">
 
 - Desktop view
-<img width="1422" alt="Desktop background" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/18f786d2-0be2-476d-a945-bdf1b5d715fd">
+<img width="1422" alt="Desktop background" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/3f980ebd-16f6-4a80-9de2-dc7eb3b63030">
+
 
 ---
  
@@ -104,7 +105,7 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
     - Shows a few of the upcoming tracks for F1 Races.
 
     - It has the images of the tracks that are transparent so still shows the main background image.
-   ![Tracks](https://github.com/Jackevans47/F1-fan-page/assets/148341732/7cb7caba-57d7-45dc-b487-6b83cfa94b29)
+    ![Tracks](https://github.com/Jackevans47/F1-fan-page/assets/148341732/3117ebef-6208-42fe-9068-ddc6ab3d1819)
 
    ---
   + #### Footer
@@ -220,7 +221,7 @@ Please refer to [TESTING.md](TESTING.md) for all testing documentation.
   
       ---
 ## Future improvments 
-- add favicon with [Favicon Generator. For real.](https://realfavicongenerator.net/);
+- add favicon
 - add fully functional sign up and survey forms.
 - add links to tracks to user can find out more about them.
 

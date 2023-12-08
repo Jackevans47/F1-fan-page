@@ -9,13 +9,13 @@ In order to test the website for correct appearance, reponsivness and functional
 
   - Chrome:
   
-![Chrome home top](https://github.com/Jackevans47/F1-fan-page/assets/148341732/e8791130-0ccc-44a3-b688-6947e5b6e2bb)
-![Chrome home bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/a175154f-5fca-4344-9ede-46d6b9e8cb7d)
+![Chrome home top](https://github.com/Jackevans47/F1-fan-page/assets/148341732/44cfd116-e26b-49ef-a60b-4fcf86cba320)
+![Chrome home bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/d941dd6d-8306-4a4b-b2c2-6b4f24095992)
 
   - Firefox:
 
-  ![Firefox home top](https://github.com/Jackevans47/F1-fan-page/assets/148341732/77a23ac8-9bf1-48b6-9309-f4d6009c6d1e)
-  ![Firefox home bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/54c87440-0aeb-4969-a3b4-22364b66ed92)
+  ![Fire fox home top](https://github.com/Jackevans47/F1-fan-page/assets/148341732/086660c3-2f28-4c7c-909b-aec3b603916e)
+  ![Fire fox home bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/fdfc9af3-39d9-4519-b0be-c0ecb1bf5b30)
 
   ## Responsiveness
 
@@ -27,8 +27,8 @@ In order to test the website for correct appearance, reponsivness and functional
 
       - Main page tablet:
       
-      ![Devtools tablet](https://github.com/Jackevans47/F1-fan-page/assets/148341732/6cd105f7-3191-42fe-9c5e-f535a5c1a783)
+      ![Devtools tablet](https://github.com/Jackevans47/F1-fan-page/assets/148341732/cc5ec29d-958f-4afd-ae96-0c7c24daef29)
 
-      - Main page Desktop: 
-
-      ![Devtools desktop](https://github.com/Jackevans47/F1-fan-page/assets/148341732/75e1cca6-3163-4247-91fe-6e364f16c932)
+      - Main page Desktop:
+        
+      ![Devtools desktop](https://github.com/Jackevans47/F1-fan-page/assets/148341732/4d024f8f-5c4c-4fdc-bfc3-98ef3fc782dc)
