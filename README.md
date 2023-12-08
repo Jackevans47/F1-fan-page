@@ -162,5 +162,14 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 
 - The combination of red and grey was used on the site to match the background image to keep to a similar scheme.
 
-###
+### Wireframes
+
+#### Mobile devices
+
+-[F1 Fan Page Home Mobile .png.zip](https://github.com/Jackevans47/F1-fan-page/files/13612751/F1.Fan.Page.Home.Mobile.png.zip)
+
+-[F1 Fan Page About us Mobile 2.png.zip](https://github.com/Jackevans47/F1-fan-page/files/13612758/F1.Fan.Page.About.us.Mobile.2.png.zip)
+
+-[F1 Fan Page Sign up Mobile .png.zip](https://github.com/Jackevans47/F1-fan-page/files/13612760/F1.Fan.Page.Sign.up.Mobile.png.zip)
+
   ---
