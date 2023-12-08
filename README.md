@@ -113,4 +113,17 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
        ![Footer](https://github.com/Jackevans47/F1-fan-page/assets/148341732/f58dce9b-56c0-4a72-8f3e-aa20823a8ef6)
 
     ---
++ ### About us page
 
+  - About us page contains a description that gives an explination to what the group is about.
+ 
+  - It contains a schedule of upcoming sessions that the user may be interested in.
+ 
+  - The schedule is responsive and will adjust to screen types.
+ 
+  - It has an identical footer to the home page.
+ 
+    <img width="1440" alt="About us page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/6528069c-3a62-472a-ad96-c8ba18111c76">
+
+
+---
