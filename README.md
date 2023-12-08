@@ -149,3 +149,18 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 
 
 ---
+## Design
+
+### Colour Scheme
+<img width="142" alt="Red" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/95c83ba4-7546-4f70-a8b7-cf3ab89c84eb">  <img width="143" alt="White" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/dcbd4c22-f829-4bff-afaf-14a6d1bad1b6"> <img width="141" alt="Atiquewhite" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/ed3c8d50-8f68-4178-9de0-52ff9ac598a6"> <img width="142" alt="Grey" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/773d6da0-7c18-441d-a183-a0581c3e8189">
+
+- Red #ff0000 was used for the header and footer.
+ 
+- For the text a combination of white #fff and antiquewhite #faebd7 was used.
+
+- Grey #808080 was used for the navigation bar.
+
+- The combination of red and grey was used on the site to match the background image to keep to a similar scheme.
+
+###
+  ---
