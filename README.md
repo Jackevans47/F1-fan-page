@@ -223,7 +223,7 @@ Please refer to [TESTING.md](TESTING.md) for all testing documentation.
 ## Future improvments 
 - add favicon
 - add fully functional sign up and survey forms.
-- add links to tracks to user can find out more about them.
+- add links to tracks so user can find out more about them.
 
   ---
 ## Credits
