@@ -4,7 +4,7 @@
 
 The F1 Fan Page webite allows people who love F1 to be able to interact and meet up over their love for the sport.
 
-The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-page/) 
+The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-page/) 
 
 ![Responsive F1 Page](https://github.com/Jackevans47/F1-fan-page/assets/148341732/b90251fa-d9d7-4f7d-9843-f0094af0ae74)
 
@@ -197,3 +197,18 @@ The site can be accessed by this [link] (https://jackevans47.github.io/F1-fan-pa
 Please refer to [TESTING.md](TESTING.md) for all testing documentation.
 
 ---
+
+
+## Deployment
+
+ Deployment to GitHub pages
+
+ - The site was deployed to GitHub pages. The steps are as follows:
+ - 
+    - In the [GitHub repository](https://github.com/Jackevans47/F1-fan-page), go to the settings tab
+    - From the source section drop-down menu, select the **Main** Branch, then click Save.
+    - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+    - The live link can be found [here](https://jackevans47.github.io/F1-fan-page/)
+  
+      ---
