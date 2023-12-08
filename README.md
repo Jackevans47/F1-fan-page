@@ -225,3 +225,19 @@ Please refer to [TESTING.md](TESTING.md) for all testing documentation.
 - add links to tracks to user can find out more about them.
 
   ---
+## Credits
+
++ #### Media
+
+   + Main background image from [Pexels](https://www.pexels.com/).
+      - [Background image](https://www.pexels.com/photo/formula-one-car-racing-at-championship-18814841/)
+    
+     + Track images from [Formula 1](https://www.formula1.com/en.html).
+       
+        -[Silverstone](https://www.formula1.com/en/information.great-britain-silverstone-circuit.2DtFVI1FjkYgLVdGhbAIv0.html).
+       
+       -[Australian](https://www.formula1.com/en/information.australia-melbourne-grand-prix-circuit.4LZLnnP4nXDFVVD01EdvvG.html).
+       
+       -[Monaco](https://www.formula1.com/en/information.monaco-circuit-de-monaco-monte-carlo.2ZWRtIcSI6ZzVGX1uGRpkJ.html).
+       
+       -[Miami](https://www.formula1.com/en/racing/2022/Miami/Circuit.html).
