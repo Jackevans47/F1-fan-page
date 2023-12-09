@@ -6,7 +6,7 @@ The F1 Fan Page webite allows people who love F1 to be able to interact and meet
 
 The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-page/) 
 
-![Responsive F1 page](https://github.com/Jackevans47/F1-fan-page/assets/148341732/26fa2275-15c5-4e5a-bdf0-78cf75763bc5)
+![Responsive](https://github.com/Jackevans47/F1-fan-page/assets/148341732/9f7ba3d8-a61c-4a63-9b33-b9fc768b128d)
 
 
 ---
@@ -65,7 +65,7 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
   
      
        - Top of the Homepage
-      <img width="1425" alt="Homepage top" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/6ee4a736-8fed-4d5e-8c6a-7f4efd8489a8">
+![homepage top](https://github.com/Jackevans47/F1-fan-page/assets/148341732/2d7409f4-ced9-4e59-95b5-709bb8c2a376)
 
        - Bottom of the Homepage
 ![Homepage bottom](https://github.com/Jackevans47/F1-fan-page/assets/148341732/53ad0e63-ff27-4c64-80a0-432d215ce581)
@@ -97,9 +97,9 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
  
   - Shows user Events and socials.
  
-    <img width="784" alt="Join us section" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fb5aeb1a-4472-485b-b499-398e55226ef0">
+    ![Join up today](https://github.com/Jackevans47/F1-fan-page/assets/148341732/72bbe2a7-d6c2-429b-a2d0-5b6d1c2e11ee)
 
-    ---
+  ---
     + #### Tracks
 
     - Shows a few of the upcoming tracks for F1 Races.
@@ -123,8 +123,8 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
   - The schedule is responsive and will adjust to screen types.
  
   - It has an identical footer to the home page.
- 
-    <img width="1440" alt="About us page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/6528069c-3a62-472a-ad96-c8ba18111c76">
+
+![About us section](https://github.com/Jackevans47/F1-fan-page/assets/148341732/1cf806fe-f4f4-498b-9867-121906cc1453)
 
 
 ---
@@ -142,8 +142,8 @@ The site can be accessed by this [here](https://jackevans47.github.io/F1-fan-pag
       - When completing the survey page, the user is directed to another page with a "thank you for completing the survey" message before being taken back to the home page automatically.
       - When completing the sign up page, the user is directed to another page with a "thank you for signing up, please await email confirmation" message.  
   
+![sign up](https://github.com/Jackevans47/F1-fan-page/assets/148341732/2d510d93-9f0d-42e1-ac1f-061c2d0a0ad4)
 
-      <img width="1439" alt="Sign up page" src="https://github.com/Jackevans47/F1-fan-page/assets/148341732/fdd4e33a-5ab5-4606-b89d-b0b7b57c8dc3">
 
    ---
 ## Technology used
@@ -223,7 +223,7 @@ Please refer to [TESTING.md](TESTING.md) for all testing documentation.
 ## Future improvments 
 - add favicon
 - add fully functional sign up and survey forms.
-- add links to tracks to user can find out more about them.
+- add links to tracks so user can find out more about them.
 
   ---
 ## Credits
