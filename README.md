@@ -219,7 +219,15 @@ Please refer to [TESTING.md](TESTING.md) for all testing documentation.
 
     - The live link can be found [here](https://jackevans47.github.io/F1-fan-page/)
   
-      ---
+      ### Local Deployment
+
+In order to make a local copy of this project, you can clone it.
+In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://jackevans47.github.io/F1-fan-page/`
+
+  ---
+      
 ## Future improvments 
 - add favicon
 - add fully functional sign up and survey forms.
