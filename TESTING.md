@@ -74,6 +74,8 @@ In order to test the website for correct appearance, reponsivness and functional
 | Email input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
 | Survey checkbox | Click on the checkbox | The checkbox is checked | Yes | Yes | These checkboxes are not required as the user can choose not to complete the optional survey |
 | "Submit" button | Click on the "Submit" button | The user is redirected to the CI successfull submission page | Yes | Yes | - |
+| Response page | | | | | |
+| Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
 
         
 ---
@@ -119,7 +121,9 @@ In order to test the website for correct appearance, reponsivness and functional
 + ### Solved bugs
  1. Encoundered issues with main background image fitting on the screen, this was fixed by using flex.
 
- 2. Encountered issue on vs code where i lost my progress, managed to find my lost code so didnt have to start from the beginning.
+ 2. Found issue when trying to impliment my response page, I added the meta code "refresh" on all pages causing the pages to refresh constantly. By adding a seperate page for response and only implimenting the code there, i fixed the issue.
 
     + ### Mistakes
-      - Made a mistake on vs code losing my progress. Managed to save my work but not the repository progress before the error. 
+      - Made a mistake on vs code losing my progress. Managed to save my work but not the repository progress before the error.
+     
+      - Made a mistake while commiting changes. I used past tense when adding commits. I've learned to use simple present commits going forward.
