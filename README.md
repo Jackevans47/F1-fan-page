@@ -240,6 +240,8 @@ In your IDE Terminal, type the following command to clone my repository:
 
 + #### Media
 
+   + Icons used from [Font awesome](https://fontawesome.com/)
+
    + Main background image from [Pexels](https://www.pexels.com/).
       - [Background image](https://www.pexels.com/photo/formula-one-car-racing-at-championship-18814841/)
     
