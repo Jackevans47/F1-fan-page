@@ -295,6 +295,10 @@ main {
     font-size: 15px;
 }
 
+.submit:hover {
+    border: 2px solid red;
+}
+
 .survey {
     cursor: pointer;
     background-color: white;
@@ -308,8 +312,11 @@ main {
     font-size: 15px;
 }
 
-/*footer*/
+.survey:hover {
+    border: 2px solid red;
+}
 
+/* Footer */
 footer {
     background-color: red;
     margin-top: auto;
