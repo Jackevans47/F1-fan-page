@@ -214,6 +214,7 @@ Please refer to [TESTING.md](TESTING.md) for all testing documentation.
  - The site was deployed to GitHub pages. The steps are as follows:
  - 
     - In the [GitHub repository](https://github.com/Jackevans47/F1-fan-page), go to the settings tab
+    - Choose pages on side navigation bar.
     - From the source section drop-down menu, select the **Main** Branch, then click Save.
     - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
