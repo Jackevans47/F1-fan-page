@@ -54,6 +54,17 @@ In order to test the website for correct appearance, reponsivness and functional
       - Sign up page desktop
      ![Devtools signup desktop](https://github.com/Jackevans47/F1-fan-page/assets/148341732/63feace3-1f4e-4419-9033-1afd375be835)
 
+
+      - Response page mobile:
+     ![response page mobile](https://github.com/Jackevans47/F1-fan-page/assets/148341732/33b82251-9687-4abc-8a14-b4bfc471b71a)
+
+      - Response page Tablet:
+     ![response page tablet](https://github.com/Jackevans47/F1-fan-page/assets/148341732/fcd115ab-d8b1-4bdc-9317-38ab1e169420)
+
+      - Response page desktop:
+     ![response page desktop](https://github.com/Jackevans47/F1-fan-page/assets/148341732/c3c647d0-b0ab-4cd4-b8a9-e66abbfb6386)
+
+
 ## Manual testing
 
 | feature | action | expected result | tested | passed | comments |
