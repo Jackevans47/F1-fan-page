@@ -119,7 +119,7 @@ In order to test the website for correct appearance, reponsivness and functional
 + ### Solved bugs
  1. Encoundered issues with main background image fitting on the screen, this was fixed by using flex.
 
- 2. Found issue when trying to impliment my response page, I added  <meta http-equiv="refresh" content="10; url=index.html"> on all pages causing the page to refresh constantly. By adding a seperate page for response and only implimenting the code there, i fixed the issue.
+ 2. Found issue when trying to impliment my response page, I added the meta code "refresh" on all pages causing the pages to refresh constantly. By adding a seperate page for response and only implimenting the code there, i fixed the issue.
 
     + ### Mistakes
       - Made a mistake on vs code losing my progress. Managed to save my work but not the repository progress before the error.
