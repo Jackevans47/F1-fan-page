@@ -132,6 +132,33 @@ main {
     background: rgba(0 0 0 / 50%);
 }
 
+.response {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
+    margin: 2em auto;
+    background: rgba(0 0 0 / 80%);
+}
+
+.response h2 {
+    background-color: antiquewhite;
+    color: black;
+}
+
+.inform {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 80%;
+    font-size: 110%;
+    letter-spacing: 2px;
+    background-color: rgba(0 0 0 / 0%);
+}
+
+
 .facts h2 {
     background-color: antiquewhite;
     color: black;
