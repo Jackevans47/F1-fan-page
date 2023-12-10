@@ -96,8 +96,13 @@ In order to test the website for correct appearance, reponsivness and functional
     
  ![W3C sign up html](https://github.com/Jackevans47/F1-fan-page/assets/148341732/0a6881ef-803c-427c-8b84-fad439fdf87a)
 
-     + ### CSS
-     -  No errors or warnings were found when passing through the official W3C (Jigsaw) validator
+ #### Response page
+ - No errors or warnings found when passing throught the offical W3C validator
+   
+ ![W3C response](https://github.com/Jackevans47/F1-fan-page/assets/148341732/7772e733-2fc9-444e-b56f-6f5045ee1504)
+
+ + #### CSS
+     - No errors or warnings were found when passing through the official W3C (Jigsaw) validator
      
  ![W3C CSS](https://github.com/Jackevans47/F1-fan-page/assets/148341732/2db64a6a-c7ed-43dd-9c44-4880c6365bce)
 
@@ -114,6 +119,9 @@ In order to test the website for correct appearance, reponsivness and functional
 
       ### Sign up page
      ![Lighthouse sign up](https://github.com/Jackevans47/F1-fan-page/assets/148341732/9a2a77f2-5efb-4074-8616-307ebc32e72d)
+
+     ### Response page
+     ![Lighthouse response page](https://github.com/Jackevans47/F1-fan-page/assets/148341732/a30012f1-cb56-4102-8fc0-02e41db1d960)
 
 
 ---
