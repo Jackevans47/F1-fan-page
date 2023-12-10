@@ -282,6 +282,32 @@ main {
     padding: 10px;
 }
 
+.submit {
+    cursor: pointer;
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 3px 3px;
+    margin-top: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.survey {
+    cursor: pointer;
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 3px 3px;
+    margin-top: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
 /*footer*/
 
 footer {
